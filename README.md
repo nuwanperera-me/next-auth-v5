@@ -2,7 +2,7 @@
 
 - [x] Home page
 - [x] Card wrapper
-- [ ] Login form
+- [x] Login form
 - [ ] Register form
 - [ ] Database & Prisma setup
 - [ ] Create user
