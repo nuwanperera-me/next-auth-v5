@@ -4,8 +4,8 @@
 - [x] Card wrapper
 - [x] Login form
 - [x] Register form
-- [ ] Database & Prisma setup
-- [ ] Create user
+- [x] Database & Prisma setup
+- [x] Create user
 - [ ] Middleware & Login
 - [ ] Callbacks
 - [ ] OAuth (Google & Github)
