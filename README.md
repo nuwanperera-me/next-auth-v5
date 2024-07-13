@@ -6,7 +6,7 @@
 - [x] Register form
 - [x] Database & Prisma setup
 - [x] Create user
-- [ ] Middleware & Login
+- [x] Middleware & Login
 - [ ] Callbacks
 - [ ] OAuth (Google & Github)
 - [ ] Resend (Sending emails)
