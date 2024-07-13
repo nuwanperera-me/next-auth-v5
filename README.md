@@ -7,7 +7,7 @@
 - [x] Database & Prisma setup
 - [x] Create user
 - [x] Middleware & Login
-- [ ] Callbacks
+- [x] Callbacks
 - [ ] OAuth (Google & Github)
 - [ ] Resend (Sending emails)
 - [ ] Email verification
