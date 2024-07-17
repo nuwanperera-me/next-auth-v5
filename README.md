@@ -8,7 +8,7 @@
 - [x] Create user
 - [x] Middleware & Login
 - [x] Callbacks
-- [ ] OAuth (Google & Github)
+- [x] OAuth (Google & Github)
 - [ ] Resend (Sending emails)
 - [ ] Email verification
 - [ ] Reset password email
