@@ -9,7 +9,7 @@
 - [x] Middleware & Login
 - [x] Callbacks
 - [x] OAuth (Google & Github)
-- [ ] Resend (Sending emails)
+- [x] Resend (Sending emails)
 - [ ] Email verification
 - [ ] Reset password email
 - [ ] Reset password form
