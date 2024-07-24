@@ -11,7 +11,7 @@
 - [x] OAuth (Google & Github)
 - [x] Resend (Sending emails)
 - [x] Email verification
-- [ ] Reset password email
+- [x] Reset password email
 - [ ] Reset password form
 - [ ] Two factor authentication
 - [ ] User button
