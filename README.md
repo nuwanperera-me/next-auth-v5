@@ -10,7 +10,7 @@
 - [x] Callbacks
 - [x] OAuth (Google & Github)
 - [x] Resend (Sending emails)
-- [ ] Email verification
+- [x] Email verification
 - [ ] Reset password email
 - [ ] Reset password form
 - [ ] Two factor authentication
