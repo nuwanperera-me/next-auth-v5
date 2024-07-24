@@ -12,7 +12,7 @@
 - [x] Resend (Sending emails)
 - [x] Email verification
 - [x] Reset password email
-- [ ] Reset password form
+- [x] Reset password form
 - [ ] Two factor authentication
 - [ ] User button
 - [ ] Server & Client example
