@@ -13,7 +13,7 @@
 - [x] Email verification
 - [x] Reset password email
 - [x] Reset password form
-- [ ] Two factor authentication
+- [x] Two factor authentication
 - [ ] User button
 - [ ] Server & Client example
 - [ ] Admin example
