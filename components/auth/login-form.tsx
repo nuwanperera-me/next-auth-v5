@@ -28,6 +28,7 @@ export const LoginForm = () => {
     searchParams.get("error") === "OAuthAccountNotLinked"
       ? "This account is already in use with a different provider."
       : "";
+  const callbackUrl = searchParams.get("callbackUrl");
 
   const [showTwoFactor, setShowTwoFactor] = useState(false);
   const [error, setError] = useState<string | undefined>("");
@@ -47,7 +48,7 @@ export const LoginForm = () => {
     setSuccess("");
 
     startTransition(() => {
-      login(values)
+      login(values, callbackUrl)
         .then((response) => {
           if (response?.error) {
             form.reset();

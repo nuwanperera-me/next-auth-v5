@@ -22,7 +22,7 @@ export default function Home() {
           🔐 Auth
         </h1>
         <p className="text-purple-200 text-base pb-6">Just testing next auth.js</p>
-        <LoginButton>
+        <LoginButton mode="model" asChild>
           <Button variant={"secondary"} size="default">
             Sign in
           </Button>

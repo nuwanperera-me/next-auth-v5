@@ -18,4 +18,4 @@
 - [x] Server & Client example
 - [x] Admin example
 - [x] Settings page
-- [ ] Deployment
+- [x] Deployment
