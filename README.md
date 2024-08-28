@@ -14,7 +14,7 @@
 - [x] Reset password email
 - [x] Reset password form
 - [x] Two factor authentication
-- [ ] User button
+- [x] User button
 - [ ] Server & Client example
 - [ ] Admin example
 - [ ] Settings page
