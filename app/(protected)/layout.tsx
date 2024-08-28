@@ -12,7 +12,7 @@ export default async function ProtectedLayout({
 
   return (
     <SessionProvider session={session}>
-      <div>
+      <div className="flex flex-col min-h-screen max-w-screen-lg items-center gap-4 mx-auto">
         <NavBar />
         {children}
       </div>

@@ -15,7 +15,7 @@
 - [x] Reset password form
 - [x] Two factor authentication
 - [x] User button
-- [ ] Server & Client example
+- [x] Server & Client example
 - [ ] Admin example
 - [ ] Settings page
 - [ ] Sponsor demo

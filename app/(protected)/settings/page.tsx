@@ -11,7 +11,7 @@ export default function SettingsPage() {
   };
 
   return (
-    <div>
+    <div className="max-w-screen-lg">
       <h1>Settings</h1>
       <p>Welcome, {JSON.stringify(user)}</p>
       <button onClick={onClick} type="submit">
