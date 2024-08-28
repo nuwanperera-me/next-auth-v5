@@ -16,7 +16,7 @@
 - [x] Two factor authentication
 - [x] User button
 - [x] Server & Client example
-- [ ] Admin example
+- [x] Admin example
 - [ ] Settings page
 - [ ] Sponsor demo
 - [ ] Deployment
