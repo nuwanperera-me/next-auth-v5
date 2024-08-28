@@ -2,9 +2,10 @@ import { UserRole } from "@prisma/client";
 import { type DefaultSession } from "next-auth";
 import { Card, CardHeader, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { ExtendedUser } from "@/auth";
 
 interface UserInfoProps {
-  user?: DefaultSession["user"] & { role: UserRole; isTwoFactorEnabled: boolean; };
+  user?: ExtendedUser;
   label: string;
 }
 

@@ -17,6 +17,5 @@
 - [x] User button
 - [x] Server & Client example
 - [x] Admin example
-- [ ] Settings page
-- [ ] Sponsor demo
+- [x] Settings page
 - [ ] Deployment
