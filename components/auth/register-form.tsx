@@ -52,6 +52,7 @@ export const RegisterForm = () => {
       backButtonHref="/auth/login"
       showSocial
     >
+      <FormError message="Resend does not work! cuz i do not have a domain. Use OAuth providers 😞"/>
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
           <div className="space-y-4">
